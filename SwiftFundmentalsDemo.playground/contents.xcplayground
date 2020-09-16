@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='00. Intro code'/>
+        <page name='01.Structs'/>
+        <page name='02. Properties and Methods'/>
+        <page name='03. Classes'/>
+        <page name='04. Advanced Classes'/>
+        <page name='05. Enums'/>
+        <page name='06. Protocols'/>
+    </pages>
+</playground>
